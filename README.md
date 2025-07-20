@@ -1,25 +1,28 @@
-# Plagarism Checker 🧠📄
+# 🧠 Plagiarism Checker 📄
 
-A simple Java-based desktop application that detects plagiarism between documents.
+A Java-based desktop application that detects plagiarism between documents.
+
+---
 
 ## 🚀 Features
 
 - Upload multiple documents
 - Detect similarity and matching content
 - Generates plagiarism report
-- Works offline (.jar executable)
+- Works offline via a `.jar` file
+
+---
 
 ## 🛠️ Tech Stack
 
-- Java
-- Swing/AWT or JavaFX
-- Text file processing
+- Java  
+- Swing / AWT / JavaFX (for GUI)  
+- File handling and text processing
 
-## 📂 How to Run
+---
 
-1. Clone the repo or download the `.jar` file
-2. Double-click the `.jar` file (make sure Java is installed)
+## ▶️ How to Run
 
-## 🙋‍♀️ Author
-
-**Vaishnavi Patade**
+1. Clone this repository or download the `.jar` file.
+2. Ensure Java is installed on your machine.
+3. Run the application by double-clicking the `.jar` file or using the command:
